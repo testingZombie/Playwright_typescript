@@ -1,0 +1,45 @@
+{
+"azureWebsite":{
+    "login":{
+        "baseUrl":"https://trainee-web-app.azurewebsites.net",
+        "email": "test@test.com",
+        "password": "test"
+    },
+    "deal":{
+        "deal_address": "#51 test",
+        "deal_number":"56781",
+        "agreement":" Sale ",
+        "propertyType":"Commercial Land",
+        "transactionType": "Rent",
+        "cashType": "Cash + Finance",
+        "startDate": "03-23-2025",
+        "endDate": "03-30-2025",
+        "agentName": "Ramya",
+        "agentEmail": "ramya.test@gmail.com",
+        "agentPhone":"123-456-7890",
+        "photoPath": "./data/testImage.jpg"
+       
+    }
+},
+"saucelabs":{
+    "baseUrl":"https://www.saucedemo.com/"
+},
+
+"loginsUsers":["standard_user", "problem_user","performance_glitch_user","error_user"],
+
+
+"Box":{
+    "email":"ramya.creativites@gmail.com",
+    "password":"P6i#1211"
+},
+
+"tricentisShop":{
+    "gender":"female",
+    "fname":"test",
+    "lname":"yash",
+    "email":"testingZombie25@gmail.com",
+    "password":"Control"
+}
+
+}
+
